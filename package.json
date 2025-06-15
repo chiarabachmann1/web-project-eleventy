@@ -1,0 +1,24 @@
+{
+  "name": "web-project-eleventy-netlify",
+  "version": "1.0.0",
+  "description": "\"# web-project-eleventy-netlify\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wikonire/web-project-eleventy-netlify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Wikonire/web-project-eleventy-netlify/issues"
+  },
+  "homepage": "https://github.com/Wikonire/web-project-eleventy-netlify#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.1"
+  }
+}

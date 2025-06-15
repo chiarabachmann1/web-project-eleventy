@@ -1,0 +1,60 @@
+/* Reset & base */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: sans-serif;
+    line-height: 1.5;
+    font-size: 100%;
+}
+
+body {
+    background: #fff;
+    color: #111;
+    min-height: 100vh;
+}
+
+/* Grid-Layout für gesamte Seite */
+.grid-container {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    min-height: 100vh;
+}
+
+/* Header */
+.site-header {
+    background: #004466;
+    color: white;
+    padding: 1rem;
+}
+
+/* Main mit Flexbox */
+.site-main {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    padding: 2rem;
+}
+
+/* Inhalt */
+.main-content {
+    flex: 2 1 60%;
+}
+
+/* Sidebar */
+.sidebar {
+    flex: 1 1 30%;
+    background: #f4f4f4;
+    padding: 1rem;
+}
+
+/* Footer */
+.site-footer {
+    background: #004466;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}

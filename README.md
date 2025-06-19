@@ -2,7 +2,7 @@
 
 This project was developed as part of a group assignment for the Web Engineering course. The goal was to create an accessible, responsive and sustainable static website using a Static Site Generator (SSG) and deploy it with automated workflows to a static hosting service.
 
-The project uses **Eleventy (11ty)** as the SSG and **Netlify** as the hosting and deployment platform. All content is written in **Markdown** and transformed into semantic HTML. The layout uses **CSS Grid** for the page structure (header, main, footer) and **Flexbox** inside the main area to organise content and sidebar.
+The project uses **Eleventy (11ty)** as the SSG and **Clouddflare** as the hosting and deployment platform. All content is written in **Markdown** and transformed into semantic HTML. The layout uses **CSS Grid** for the page structure (header, main, footer) and **Flexbox** inside the main area to organise content and sidebar.
 
 Accessibility (a11y), semantic HTML and sustainable design were key priorities. The final site is mobile-friendly, screen-reader compatible and tested on various screen sizes.
 

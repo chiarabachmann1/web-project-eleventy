@@ -55,6 +55,22 @@ You can validate the site using the following tools:
 
 ---
 
+## Why should you use CSS classes instead of just selectors like p, ul li or div > span?
+
+- Because classes are easier, more flexible and more reliable.
+- You can reuse classes. It doesn’t matter if it’s a div, button or span. You just add the class you need.
+- If you later change the HTML structure, classes still work. Selectors often break when things move around.
+- Classes make your code easier to read. You see right away what something is for. Like warning, card, or btn-primary.
+- With classes, you can style exactly what you want. Selectors like section p often catch things you didn’t mean to style.
+- Classes help you keep your styles clean. You can work in a modular way and reuse your styles.
+- Most modern frameworks use classes. Because they are clear, maintainable and easy to combine.
+- 
+### Bottom line
+Classes give you control. Selectors often or potentially catch too much or the wrong thing.
+
+
+---
+
 ## Sources and Tools
 
 - Eleventy Documentation: https://www.11ty.dev/docs/
@@ -64,7 +80,7 @@ You can validate the site using the following tools:
 - Ecograder: https://ecograder.com/
 - Nunjucks Docs: https://mozilla.github.io/nunjucks/getting-started.html
 
-> This project was partly supported by [ChatGPT](https://openai.com/chatgpt) for technical structuring and code generation. All source code and final documentation were reviewed and verified by the authors.
+> This project was partly supported by [ChatGPT](https://openai.com/chatgpt) for technical structuring and code generation for inspiration. All source code and final documentation were reviewed and verified by the authors.
 
 ---
 

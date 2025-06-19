@@ -46,11 +46,11 @@ Eleventy wurde von Anfang an so entwickelt, dass es energieeffiziente und ressou
 - [Next.js Dokumentation](https://nextjs.org/docs)  
   Beschreibt die Möglichkeiten und Konzepte von Next.js.
 
-- [LoadFocus — Vorteile der Verwendung von Eleventy](https://loadfocus.com/de-de/glossary/eleventy-11ty#:~:text=Vorteile%20der%20Verwendung%20von%20Eleventy,zu%20schnelleren%20und%20zug%C3%A4nglicheren%20Websites.)  
+- [LoadFocus: Vorteile der Verwendung von Eleventy](https://loadfocus.com/de-de/glossary/eleventy-11ty#:~:text=Vorteile%20der%20Verwendung%20von%20Eleventy,zu%20schnelleren%20und%20zug%C3%A4nglicheren%20Websites.)  
   Beschreibt die Vorteile von Eleventy.
 
-- [IONOS Digital Guide — Die besten Static Site Generatoren](http://ionos.de/digitalguide/websites/webseiten-erstellen/die-besten-static-site-generatoren/)  
+- [IONOS Digital Guide: Die besten Static Site Generatoren](http://ionos.de/digitalguide/websites/webseiten-erstellen/die-besten-static-site-generatoren/)  
   Übersicht und Vergleich der bekanntesten Static Site Generatoren.
-- [LambdaTest Blog — Top Static Site Generators](https://www.lambdatest.com/blog/top-static-site-generators/)  
+- [LambdaTest Blog: Top Static Site Generators](https://www.lambdatest.com/blog/top-static-site-generators/)  
   Stellt verschiedene SSGs vor und bewertet ihre Eignung je nach Anwendungsfall.
 

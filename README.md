@@ -49,6 +49,7 @@ You can validate the site using the following tools:
 - HTML Validator: https://validator.w3.org/
 - CSS Validator: https://jigsaw.w3.org/css-validator/
 - Ecograder: https://ecograder.com/
+- Nunjucks Docs: https://mozilla.github.io/nunjucks/getting-started.html
 
 > This project was partly supported by [ChatGPT](https://openai.com/chatgpt) for technical structuring and code generation. All source code and final documentation were reviewed and verified by the authors.
 

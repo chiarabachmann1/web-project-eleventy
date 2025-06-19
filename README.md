@@ -13,7 +13,8 @@ Accessibility (a11y), semantic HTML and sustainable design were key priorities. 
 This project scores above **90** on [https://ecograder.com](https://ecograder.com), meeting the sustainability requirement.
 
 **Screenshot:**
-![Ecograder Screenshot]()
+![image](https://github.com/user-attachments/assets/ac7cbdac-4206-4de3-bb4f-355eb5e660bf)
+
 
 ---
 

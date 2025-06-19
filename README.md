@@ -35,10 +35,10 @@ You can validate the site using the following tools:
     - Supports templates and layouts via Nunjucks
     - Lightweight and accessibility-friendly
 
-- **Hosting & CI/CD:** [Netlify](https://www.netlify.com/)
-    - Automatic builds from GitHub
-    - Fast, free, and supports custom domains
-    - Great for static sites and Markdown-based content
+- **Hosting & CI/CD:** [Cloudflare Pages](https://pages.cloudflare.com/)
+    - Automatic builds and deployments from GitHub
+    - Free, fast, and includes a global CDN for optimal performance
+    - Supports custom domains with HTTPS
 
 ---
 

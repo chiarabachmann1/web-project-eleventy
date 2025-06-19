@@ -22,9 +22,19 @@ This project scores above **90** on [https://ecograder.com](https://ecograder.co
 You can validate the site using the following tools:
 
 - [W3C HTML Validator Report](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fweb-project-eleventy.pages.dev%2F)
-- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F<your-netlify-domain>&profile=css3svg)
+- [W3C CSS Validator Report](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fweb-project-eleventy.pages.dev/&profile=css3svg)
 
-> Replace `<your-netlify-domain>` with the actual deployed URL
+<p>
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
+            alt="CSS ist valide!" />
+</p>
+<p>
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss"
+            alt="CSS ist valide!" />
+</p>
+          
 
 ---
 

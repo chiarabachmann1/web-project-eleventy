@@ -3,7 +3,7 @@ title: Home
 layout: layout.njk
 ---
 
-# Hello and Welcome
+## Hello and Welcome
 
 Welcome to our project. This site is built with Eleventy and deployed with Netlify.
 

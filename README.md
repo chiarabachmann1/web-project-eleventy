@@ -78,16 +78,30 @@ Classes give you control. Selectors often or potentially catch too much or the w
 
 ---
 
-## Sources and Tools
+## Design Decisions
 
-- Eleventy Documentation: https://www.11ty.dev/docs/
-- Netlify Docs: https://docs.netlify.com/
-- HTML Validator: https://validator.w3.org/
-- CSS Validator: https://jigsaw.w3.org/css-validator/
-- Ecograder: https://ecograder.com/
-- Nunjucks Docs: https://mozilla.github.io/nunjucks/getting-started.html
+### Static Site Generator
 
-> This project was partly supported by [ChatGPT](https://openai.com/chatgpt) for technical structuring and code generation for inspiration. All source code and final documentation were reviewed and verified by the authors.
+We selected **Eleventy (11ty)** because:
+- It offers great flexibility by supporting multiple templating languages.
+- It is easy to configure and does not require complex build tools.
+- It provides excellent performance and enables sustainable, energy-efficient websites.
+- It renders Markdown directly into semantic HTML.
+
+> See details in [StaticSiteGenerator.md](./StaticSiteGenerator.md)
+
+---
+
+### Deployment and Hosting
+
+We chose **Cloudflare Pages** for deployment because:
+- It integrates easily with GitHub.
+- It provides automated builds and deployments (CI/CD).
+- It serves content via a global CDN for optimal performance.
+- It qualifies as a green hosting provider with an Ecograder score above 90.
+
+> See details in [Deployment.md](./Deployment.md)
+
 
 ---
 
